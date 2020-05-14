@@ -1,5 +1,5 @@
 # MIPS-Simulator
-A MIPS Architecture Simulator Implemented in JavaScript 📐 💻 (2015)
+A MIPS Architecture Simulator Implemented in JavaScript 📐 💻 (2015).
 
 # Contact
 
